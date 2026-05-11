@@ -131,6 +131,15 @@ From the dashboard you can:
 
 Press `Ctrl+C` in the terminal.
 
-##Authors
+## Authors
+
+** Bhumika Rishitha **
+** Pravallika **
+** Amrutha **
+** Lavanya **
+** Kavya Rai**
+
+IIT Kharagpur.
+
 
 ---
