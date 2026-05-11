@@ -131,4 +131,6 @@ From the dashboard you can:
 
 Press `Ctrl+C` in the terminal.
 
+##Authors
+
 ---
