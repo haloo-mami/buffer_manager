@@ -133,11 +133,15 @@ Press `Ctrl+C` in the terminal.
 
 ## Authors
 
-** Bhumika Rishitha **
-** Pravallika **
-** Amrutha **
-** Lavanya **
-** Kavya Rai**
+**Bhumika Rishitha.**
+
+**Pravallika.**
+
+**Amrutha.**
+
+**Lavanya.**
+
+**Kavya Rai.**
 
 IIT Kharagpur.
 
